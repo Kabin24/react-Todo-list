@@ -9,7 +9,7 @@ Welcome to the ToDo List project! This is a basic application that allows you to
 - Edit or delete tasks.
 - View your tasks in a list.
 
-Usage
+###Usage
 Adding a Task: Click the "Add Task" button and fill in the task details.
 Completing a Task: Check the checkbox next to a task to mark it as completed.
 Editing a Task: Click the "Edit" button to modify a task.
